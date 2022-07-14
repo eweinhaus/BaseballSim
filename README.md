@@ -14,5 +14,7 @@ In conclusion, the action index was raised from ~50 to ~207
 *Action Index: Batted balls in play per game. (PAs - BBs - HBPs - Ks)
 
 baseballSim.R --> simulation
+
 countData2.csv --> storing 2021 plate appearance data
+
 simSeason.csv --> simulated results
